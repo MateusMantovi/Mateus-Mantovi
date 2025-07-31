@@ -7,9 +7,9 @@
 ### Olá! Eu sou o Mateus 👋
 
 <p align="center">
-Sou um estudante de Engenharia de Computação e desenvolvedor apaixonado por construir soluções de software robustas e escaláveis. Meu foco principal está no desenvolvimento <strong>Backend</strong>, com um forte interesse em <strong>sistemas distribuídos, análise de dados e arquitetura de microsserviços</strong>.
+[cite_start]Sou um estudante de Engenharia de Computação e desenvolvedor apaixonado por construir soluções de software robustas e escaláveis. [cite: 17] [cite_start]Meu foco principal está no desenvolvimento <strong>Backend</strong>, com um forte interesse em <strong>sistemas distribuídos, análise de dados e arquitetura de microsserviços</strong>. [cite: 18]
 <br><br>
-Atualmente, estou aprofundando meus conhecimentos no ecossistema <strong>Java com Spring Boot</strong> e explorando o desenvolvimento <strong>Frontend com Vue.js</strong>, sempre buscando aplicar as melhores práticas de DevOps. Estou sempre aberto a novas oportunidades e colaborações!
+[cite_start]Atualmente, estou aprofundando meus conhecimentos no ecossistema <strong>Java com Spring Boot</strong> e explorando o desenvolvimento <strong>Frontend com Vue.js</strong>, sempre buscando aplicar as melhores práticas de DevOps. [cite: 19] Estou sempre aberto a novas oportunidades e colaborações!
 </p>
 
 </div>
@@ -67,11 +67,11 @@ Atualmente, estou aprofundando meus conhecimentos no ecossistema <strong>Java co
 
 ### 📌 Projetos em Destaque
 <p align="center">
-  <a href="https://github.com/MateusMantovi/SEU-REPO-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MateusMantovi&repo=SEU-REPO-1&theme=aura&hide_border=true&icon_color=00c896&title_color=00c896" />
+  <a href="https://github.com/MateusMantovi/api-ecommerce-java">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MateusMantovi&repo=api-ecommerce-java&theme=aura&hide_border=true&icon_color=00c896&title_color=00c896" />
   </a>
-  <a href="https://github.com/MateusMantovi/SEU-REPO-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MateusMantovi&repo=SEU-REPO-2&theme=aura&hide_border=true&icon_color=00c896&title_color=00c896" />
+  <a href="https://github.com/MateusMantovi/meu-projeto-vue">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MateusMantovi&repo=meu-projeto-vue&theme=aura&hide_border=true&icon_color=00c896&title_color=00c896" />
   </a>
 </p>
 
@@ -84,7 +84,7 @@ Atualmente, estou aprofundando meus conhecimentos no ecossistema <strong>Java co
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMantovi&theme=aura&hide_border=true&layout=compact" alt="Linguagens mais usadas" />
 </p>
 <p align="center">
-  <img src="https://ghchart.rshah.org/MateusMantovi?color=00c896&bg_color=1a1a1a" alt="Gráfico de Contribuições do GitHub" />
+  <img src="https://ghchart.rshah.org/00c896/MateusMantovi" alt="Gráfico de Contribuições do GitHub" />
 </p>
 
 ---
