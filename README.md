@@ -3,7 +3,7 @@
 </p>
 
 # 💫 Sobre Mim:
-🎓 Estudante de Engenharia de Computação (3º ano)<br>  
+🎓 Estudante de Engenharia de Computação (4º ano)<br>  
 💼 Desenvolvedor Backend & Frontend<br>  
 ⚡ Apaixonado por tecnologia, dados e sistemas distribuídos<br>  
 📍 Localização: Brasil<br>  
@@ -12,8 +12,8 @@
 ---
 
 ## 🌐 Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateusmantovi)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mateusmantovi/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusmantovi@gmail.com)
 
 ---
 
