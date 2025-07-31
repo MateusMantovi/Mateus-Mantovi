@@ -3,7 +3,7 @@
 </p>
 
 # 💫 Sobre Mim:
-🎓 Estudante de Engenharia de Computação (3º ano)<br>  
+🎓 Estudante de Engenharia de Computação (4º ano)<br>  
 💼 Desenvolvedor Backend & Frontend<br>  
 ⚡ Apaixonado por tecnologia, dados e sistemas distribuídos<br>  
 📍 Localização: Brasil<br>  
