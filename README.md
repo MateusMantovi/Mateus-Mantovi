@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:00c896&height=250&section=header&text=Mateus%20Mantovi%20Costa&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Cabeçalho animado do perfil de Mateus Mantovi Costa"/>
+  <img src="http://googleusercontent.com/image_generation_content/0" alt="Banner de fundo abstrato com tema de tecnologia"/>
 </p>
 
 <div align="center">
@@ -63,16 +63,6 @@ Sou um desenvolvedor apaixonado por tecnologia e estudante de Engenharia de Comp
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MateusMantovi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Troféus do GitHub de MateusMantovi"/>
-</p>
-
----
-
-### ✨ Citação Dev do Dia
-
-<p align="center">
-  <i>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Citação aleatória para desenvolvedores"/>
-  </i>
 </p>
 
 ---
