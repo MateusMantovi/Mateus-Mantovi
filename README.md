@@ -3,7 +3,7 @@
 </p>
 
 # 💫 Sobre Mim:
-🎓 Estudante de Engenharia de Computação (4º ano)<br>  
+🎓 Estudante de Engenharia de Computação (3º ano)<br>  
 💼 Desenvolvedor Backend & Frontend<br>  
 ⚡ Apaixonado por tecnologia, dados e sistemas distribuídos<br>  
 📍 Localização: Brasil<br>  
@@ -12,8 +12,8 @@
 ---
 
 ## 🌐 Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusmantovi/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusmantovi@gemail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateusmantovi)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
 
 ---
 
@@ -48,7 +48,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MateusMantovi&label=Visualizações&color=1&icon=5&pretty=false" />
+  <img src="https://komarev.com/ghpvc/?username=MateusMantovi&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" />
 </p>
 
 <!--
