@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:00c896&height=200&section=header&text=Mateus%20Mantovi%20Costa&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="capa animada"/>
 </p>
 
-# 💫 Sobre Mim:
+# Sobre Mim:
 🎓 Estudante de Engenharia de Computação (4º ano)<br>  
 💼 Desenvolvedor Backend & Frontend<br>  
 ⚡ Apaixonado por tecnologia, dados e sistemas distribuídos<br>  
